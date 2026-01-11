@@ -1,1 +1,1 @@
-https://krugerer.github.io/zakrivayuschiy-teg-f/
+https://github.com/krugerer/zakrivayuschiy-teg-f.git https://krugerer.github.io/zakrivayuschiy-teg-f/
