@@ -287,11 +287,6 @@
   transform: scaleX(1);
 }
 
-.card__like-button:focus {
-  outline: none;
-  border: none;
-}
-
 .card__like-button:focus-visible {
   outline: none;
   box-shadow: 2px 2px 0 var(--head-color);
