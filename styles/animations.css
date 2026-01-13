@@ -10,7 +10,7 @@
 
 */
 
-@keyframes main-body {
+@keyframes ChangeSize {
     from {
         transform: scale(1);
     }
@@ -19,7 +19,7 @@
     }
 }
 
-@keyframes spark {
+@keyframes ChangeTransparent {
     from {
         opacity: 0;
     }
